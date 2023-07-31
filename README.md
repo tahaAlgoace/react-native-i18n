@@ -12,11 +12,7 @@ Integrates [I18n.js](https://github.com/fnando/i18n-js) with React Native. Uses 
 
 **Using yarn (recommended)**
 
-`$ yarn add react-native-i18n`
-
-**Using npm**
-
-`$ npm install react-native-i18n --save`
+`$ yarn add react-native-i18n@tahaAlgoace/react-native-i18n`
 
 ## Automatic setup
 
