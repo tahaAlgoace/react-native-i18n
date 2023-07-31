@@ -1,3 +1,5 @@
+I have fixed the android issue for new react native versions
+
 <img src="https://cdn0.iconfinder.com/data/icons/material-design-ii-glyph/614/3010_-_Translate-512.png" width="100" align="left" />
 
 # react-native-i18n
